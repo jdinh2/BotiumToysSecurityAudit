@@ -2,6 +2,11 @@
   <img src="https://i.imgur.com/ElWjENc.png" alt="Google Logo" width="200" height="200" />
 </p>
 
+## Introduction
+
+This security audit presents the results of a comprehensive audit conducted as part of the Google Cybersecurity Professional Certification Program. The assignment required an in-depth assessment of security controls and compliance best practices at Botium Toys. The recommendations and analysis provided here reflect the practical skills and knowledge gained through the course.
+
+
 # Botium Toys: Scope, Goals, and Risk Assessment Report
 
 ## Scope and Goals of the Audit
